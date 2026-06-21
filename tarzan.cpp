@@ -1,6 +1,4 @@
-// Nikodem Grosz 210881 - Tarzan,
-// - Programista wszedł pod prysznic z instrukcją na szamponie.
-// - „Nałóż, spłucz, powtórz” i utknął w pętli.
+
 #include <iostream>
 #include <vector>
 #include <cmath>
