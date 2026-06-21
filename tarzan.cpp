@@ -1,4 +1,7 @@
-
+// Nikodem Grosz 210881 - Tarzan,
+// - Programista wszedł pod prysznic z instrukcją na szamponie.
+// - „Nałóż, spłucz, powtórz” i utknął w pętli.
+#include <iostream>
 #include <vector>
 #include <cmath>
 #include <cstdio>
@@ -49,7 +52,7 @@ double getDistance(Village a, Village b)
     {
         return euklides; // < 1000 zwykly euklides
     }
-    // wyjÄtki!!!
+    // wyjątki!!!
     if (a.y == b.y)
     {
         if (a.x >= 0 && b.x >= 0 && b.x < a.x)
