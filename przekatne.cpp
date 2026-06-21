@@ -179,7 +179,7 @@ int main()
             }
         }
 
-        // trzeba podzielic przez 2 bo kazdy kwadracik
+        // trzeba podzielic przez 2 bo kazdy kwadrat
         // jest liczony dwa razy (dwie przekatne)
 
         cout << wszystkie_cykle / 2 << "\n";
